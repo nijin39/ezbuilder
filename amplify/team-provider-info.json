@@ -1,0 +1,26 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-ezbuilder-dev-143721-authRole",
+            "UnauthRoleArn": "arn:aws:iam::256010096758:role/amplify-ezbuilder-dev-143721-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::256010096758:role/amplify-ezbuilder-dev-143721-authRole",
+            "Region": "ap-northeast-2",
+            "DeploymentBucketName": "amplify-ezbuilder-dev-143721-deployment",
+            "UnauthRoleName": "amplify-ezbuilder-dev-143721-unauthRole",
+            "StackName": "amplify-ezbuilder-dev-143721",
+            "StackId": "arn:aws:cloudformation:ap-northeast-2:256010096758:stack/amplify-ezbuilder-dev-143721/a6919080-a237-11ea-8cd8-06435d7b912e",
+            "AmplifyAppId": "djz32mikszoq0"
+        },
+        "categories": {
+            "auth": {
+                "ezbuilder7e3a5253": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "djz32mikszoq0",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
